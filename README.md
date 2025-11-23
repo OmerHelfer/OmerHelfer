@@ -9,7 +9,7 @@
 ### 🎓 About Me
 
 - 3rd-year Computer Science Student  
-- Passionate about **Low-Level Development**, **Operating Systems**, **Linux**, **Computers Architecture**, and **Embedded Systems**  
+- Passionate about **Low-Level Development**, **Operating Systems**, **Linux**, **Computer Architecture**, and **Embedded Systems**  
 - Currently building a **Mini Operating System (MyOS)** in C on Linux  
 - Always exploring how the machine really works under the hood  
 - 📬 Reach me at: **helferomer@gmail.com**  
