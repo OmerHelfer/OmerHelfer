@@ -68,6 +68,6 @@
 
 ### 🤝 Connect with Me:
 
-<a href="https://www.linkedin.com/in/omer-helfer-17a1b1329/" target="_blank">
+<a href="https://www.linkedin.com/in/omer-helfer/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
